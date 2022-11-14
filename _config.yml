@@ -6,13 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Florent Sarat"
-title_separator          : "-"
-name                     : ""
-description              : " description"
-url                      : ""
-baseurl                  : "" 
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Welcome to my personal website.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
 
 
 
