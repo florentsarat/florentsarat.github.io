@@ -1,4 +1,4 @@
-
+<h1>{% if post.title %}<p> {{ post.title }}</p>{% endif %}</h1>
 {% if post.date %}<p> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
 {% if post.venue %}<p>{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
 {% if post.excerpt %}<p>{{ post.excerpt | markdownify }}</p>{% endif %}
