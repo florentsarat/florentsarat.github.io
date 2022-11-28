@@ -6,3 +6,7 @@ redirect_from:
   - /talks
 ---
 
+
+{% for post in site.talks reversed %}
+  {% include given-talk.html %}
+{% endfor %}

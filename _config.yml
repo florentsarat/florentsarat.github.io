@@ -35,3 +35,9 @@ kramdown:
 
 include:
 - _pages
+
+
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:path/
