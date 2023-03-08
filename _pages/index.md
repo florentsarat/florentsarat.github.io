@@ -6,4 +6,7 @@ redirect_from:
   - /
 ---
 
-## Ici
+
+{% for post in site.blogposts reversed %}
+  {% include given-talk.html %}
+{% endfor %}
