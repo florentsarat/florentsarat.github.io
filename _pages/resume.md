@@ -15,7 +15,11 @@ Education
 Work experience
 ======
 
-**July 2022 - Today - Senior Product Manager - Payfit**
+**May 202 - Today - Technical Product Manager - Doctolib**
+
+*B2B/C SaaS that provides health care services*
+
+**July 2022 - April 2023 - Senior Product Manager - Payfit**
 
 *B2B SaaS that provides a payroll solution for SMB*
 
